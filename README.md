@@ -10,3 +10,6 @@ Os arquivos estão enumerados da seguinte forma:
 - 4- interface_segragation
 - 5- dependency_inversion
 - 6- NOT_A_SOLID_PRINCIPLE_dependency_injection
+
+
+Cada exemplo tem o exemplo de VIOLAÇÃO do princípio e o seu respectivo código refatorado para estar em conformidade com os princípios SOLID.
