@@ -84,7 +84,7 @@ class Quadrado extends Forma {
 }
 
 const retangulo = new Retangulo(5, 4);
-console.log(Retangulo.area());
+console.log(retangulo.area());
 
 const quadrado = new Quadrado(5, 5);
 console.log(quadrado.area());
